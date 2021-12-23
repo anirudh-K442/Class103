@@ -1,0 +1,12 @@
+body {
+    background-color: darkorchid;
+    border: dashed;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.heading {
+    width: 60%;
+    font-size: 50px;
+    font-family: 'Georgia';
+}
